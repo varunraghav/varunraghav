@@ -2,29 +2,27 @@
 
 ### About Me
 
-I'm a passionate AI developer with a keen interest in data, machine learning, and Artificial Intelligence. With a strong foundation in computer science and hands-on experience in various technologies, I enjoy building scalable and efficient applications.
+Hi, I am Varun, I love building RAG Chatbots. 
 
-- 🌱 I’m currently learning **Machine Learning** and **AI**.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about **SQL, Python, Langchain, LlamaIndex, Autogen**.
+- 💬 You can consult me on how to build RAG chatbots for your enterprise.
 - 📫 How to reach me: [Email](mailto:vrbalakr@asu.edu) | [LinkedIn](https://www.linkedin.com/in/varunraghavb)
 
 ### Skills and Technologies
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Web Technologies:** HTML, CSS, React, Node.js, Express.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Version Control:** Git, GitHub
-- **Tools:** Docker, Kubernetes, Jenkins, VS Code
+- **Languages:** Python(Pandas, Scikit-learn, Tensorflow), SQL
+- **Framework:** LlamaIndex, Langchain, Autogen, CrewAI, Letta 
+- **Web Technologies:** HTML, CSS, FastAPI
+- **Databases:** MySQL, PostgreSQL, SQLite, SQLAlchemy
+- **Cloud Platforms:** AWS, GCP
+
 
 ### Projects
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name 1](https://github.com/varunraghav/project1)**: Brief description of what this project does and the technologies used.
-2. **[Project Name 2](https://github.com/varunraghav/project2)**: Brief description of what this project does and the technologies used.
-3. **[Project Name 3](https://github.com/varunraghav/project3)**: Brief description of what this project does and the technologies used.
+1. **[Asset/Stock Analysis using AI Agents](https://github.com/varunraghav/Asset_Analysis_AI_Agents)**: Used Autogen and streamlit to create a web interface that would take in tickers and produce detailed reports on the stocks/Assets.
+2. **[FlightGPT](https://github.com/varunraghav/FlightGPT)**: Building a chatbot that would answer user's queries on commercial flights and any rules associated with airports and flights.
 
 ### GitHub Stats
 
@@ -36,7 +34,7 @@ Here are some of the projects I've worked on:
 
 ### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/varunraghavb)
 
 
 
